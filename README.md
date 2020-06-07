@@ -2,6 +2,7 @@
 MoreYeahs Assignment 
 
 ## Installation
+install all dependencies
 ```bash
 npm install
 ```
