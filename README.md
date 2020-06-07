@@ -17,4 +17,4 @@ go to the index file
 localhost:8808/index
 ```
 ##Note
-End Users are not created as not mentioned to create in assignement hence a hardcore userId is available in frontend to work with
+End Users are not created as not mentioned to create in assignment hence a hardcore userId is available in frontend to work with
