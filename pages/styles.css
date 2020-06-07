@@ -1,0 +1,16 @@
+main {
+    margin-top: 22px;
+}
+
+.vl {
+    border-left: 1px solid black;
+    height: 100%;
+    position: absolute;
+    left: 100%;
+    margin-left: -3px;
+    top: 0px;
+}
+
+.dtRow {
+    background-color: lightgray;
+}
